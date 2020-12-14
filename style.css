@@ -1,0 +1,27 @@
+/* #ModalDate{
+    font-size: 14px;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: right;
+}
+.modal-title{
+    position: relative;
+    left: 40%;
+} */
+.modal-header{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: left; */
+}
+.imp-card{
+    background-image: linear-gradient(to right , red,rgb(255, 102, 0) ,rgb(255, 187, 0))
+}
+.noteCard{
+    box-shadow: 5px -5px 9px 0px;
+}
+.modal-header{
+    background-image: linear-gradient(red,rgb(31, 199, 255));
+}
+#editNoteTitle{
+    text-align: center;
+}
